@@ -1,0 +1,1 @@
+ffmpeg -allowed_extensions ALL -i 'input.m3u8' -acodec copy -vcodec copy out.mp4
